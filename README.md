@@ -1,2 +1,2 @@
 # ReactJS-Projects
-Small ReactJS projects created while learning ReactJS
+Small ReactJS projects using Create-React-App
